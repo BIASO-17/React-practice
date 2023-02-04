@@ -1,0 +1,19 @@
+.footer{
+    width: 100%;
+    min-height:30px;
+    display: flex;
+    flex-direction: row;
+}
+.box{
+    width: 33%;
+    padding: 20px auto;
+}
+.bottom-lines{
+    display: flex;
+    gap: 62px;
+}
+.bottom-lines li{
+    list-style: none;
+    
+}
+

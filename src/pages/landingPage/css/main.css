@@ -1,0 +1,13 @@
+.main{
+    min-height: 250px;
+   
+}
+.main p{
+    margin: 50px auto;
+    width: 709px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;
+    text-align: center;
+}
