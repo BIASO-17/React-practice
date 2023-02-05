@@ -3,8 +3,8 @@ import "../landingPage.css"
 import "../css/footer.css"
 function Footer() {
   return (
-    <div className='footer border'> 
-    <div className='border box'>
+    <div className='footer '> 
+    <div className=' box'>
        <ul className='bottom-lines'>
         <li>
         Google Play
@@ -14,15 +14,15 @@ function Footer() {
         </li>
        </ul>
     </div>
-    <div  className='border box'>
+    <div  className=' box'>
         <ul className='bottom-lines'>
             <li>Developer</li>
             <li>Terms & Condition
         </li>
         </ul>
     </div>
-    <div  className='border box'>
-       <ul className='bottom-lines'>
+    <div  className=' box'>
+       <ul className=' bottom-lines-right'>
         <li> Language</li>
        </ul>
     </div>

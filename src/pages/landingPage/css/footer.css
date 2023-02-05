@@ -10,10 +10,23 @@
 }
 .bottom-lines{
     display: flex;
-    gap: 62px;
+    gap: 30%;
+    margin-left: 10%;
+    
+    
 }
 .bottom-lines li{
     list-style: none;
     
+    
 }
-
+.bottom-lines-right{
+    display: flex;
+    width: 50%;
+    margin-left:40%;
+    gap: 63;
+}
+.bottom-lines-right li{
+    list-style: none; 
+    text-align: right;  
+}

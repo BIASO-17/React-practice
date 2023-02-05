@@ -6,7 +6,7 @@ import SignIn from './pages/SignIn/SignIn';
 import SignUp from './pages/SignUp/SignUp';
 import Verification from './pages/otp/Verification';
 import NotFound from './pages/notfound/NotFound';
-import Button from './component/button/Button';
+
 import './App.css';
 
 const router = createBrowserRouter([
@@ -30,10 +30,7 @@ const router = createBrowserRouter([
   path:"'",
   element:<NotFound />
 },
-{
-  path:"button",
-  element:<Button />
-}
+
 ])
 function App() {
   

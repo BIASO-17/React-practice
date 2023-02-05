@@ -1,8 +1,13 @@
 import React from 'react'
+import Header from '../../component/Header'
+
 
 function SignUp() {
   return (
-    <div>SignUp</div>
+    <>
+    <Header/>
+    </>
+    
   )
 }
 
